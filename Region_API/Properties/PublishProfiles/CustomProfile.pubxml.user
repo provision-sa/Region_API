@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlRwxvA655EyPnPyJ2PGivgAAAAACAAAAAAAQZgAAAAEAACAAAADX3VE3YBc7Piw57szdKfwAqzPMbM8Fvem8n5c4gEbtZgAAAAAOgAAAAAIAACAAAACgYMV3QgOW4u7KdiM0lsPCNbC9+bI37DqhV2CeAoCdUyAAAADq41lJ4J7cEnYtkq3i863a9aICitsAaiCSykzQqiXf90AAAAAq4PR8aLaZzjYgkg4+EaCSa83taqv96xitk7e2iq8NYNVDRuqD9DPoNOyjD/7Q4pk6wTEF5TK/t/yQV4IXkr8h</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProvinceSQL">
+      <Value>Data Source=localhost%3bInitial Catalog=Region_API%3bPersist Security Info=true%3bUser Id=Provision%3bPassword=What123!%3bPooling=false%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

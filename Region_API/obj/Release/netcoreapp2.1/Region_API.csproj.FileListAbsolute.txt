@@ -1,0 +1,14 @@
+C:\Work\GitHub\Region_API\Region_API\bin\Release\netcoreapp2.1\Region_API.deps.json
+C:\Work\GitHub\Region_API\Region_API\bin\Release\netcoreapp2.1\Region_API.runtimeconfig.json
+C:\Work\GitHub\Region_API\Region_API\bin\Release\netcoreapp2.1\Region_API.runtimeconfig.dev.json
+C:\Work\GitHub\Region_API\Region_API\bin\Release\netcoreapp2.1\Region_API.dll
+C:\Work\GitHub\Region_API\Region_API\bin\Release\netcoreapp2.1\Region_API.pdb
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.csprojAssemblyReference.cache
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.csproj.CoreCompileInputs.cache
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.RazorAssemblyInfo.cache
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.RazorAssemblyInfo.cs
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.AssemblyInfoInputs.cache
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.AssemblyInfo.cs
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.RazorTargetAssemblyInfo.cache
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.dll
+C:\Work\GitHub\Region_API\Region_API\obj\Release\netcoreapp2.1\Region_API.pdb
